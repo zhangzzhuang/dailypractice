@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.diyredpacket.dao.TRedPacketMapper">
+  <resultMap id="BaseResultMap" type="com.example.diyredpacket.entity.TRedPacket">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="BIGINT" property="id" />
+    <result column="user_id" jdbcType="BIGINT" property="userId" />
+    <result column="amount" jdbcType="DECIMAL" property="amount" />
+    <result column="send_date" jdbcType="TIMESTAMP" property="sendDate" />
+    <result column="total" jdbcType="BIGINT" property="total" />
+    <result column="unit_amount" jdbcType="DECIMAL" property="unitAmount" />
+    <result column="stock" jdbcType="INTEGER" property="stock" />
+    <result column="version" jdbcType="INTEGER" property="version" />
+    <result column="note" jdbcType="VARCHAR" property="note" />
+  </resultMap>
+</mapper>

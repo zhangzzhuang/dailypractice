@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package diyprotobuf;
+
+option java_package = "com.example.diyprotobuf";
+option java_outer_classname = "PersonBuf";
+
+message Person {
+	string name = 1;
+	int32 id = 2;
+	string email = 3;
+}
+

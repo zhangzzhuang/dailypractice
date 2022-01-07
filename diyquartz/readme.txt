@@ -1,0 +1,3 @@
+mybatis代码生成
+在pom同级目录中执行下面命令
+mvn mybatis-generator:generate
