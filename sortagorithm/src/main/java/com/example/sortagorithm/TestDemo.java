@@ -57,21 +57,21 @@ public class TestDemo implements ApplicationRunner {
 		c.start();
 		a.start();
 
-//
-//		String s = "basi";
-//		int hash = s.hashCode();
-//		int hash16 = hash >>> 16;
-//		int key = hash ^ hash16;
-//
-//		System.out.println(hash);
-//		System.out.println(hash16);
-//		System.out.println(key);
-//
-//		System.out.println(hash(s));
-//
-//
-//		System.out.println((16-1) & hash);
-//
+
+		String s = "basi";
+		int hash = s.hashCode();
+		int hash16 = hash >>> 16;
+		int key = hash ^ hash16;
+
+		System.out.println(hash);
+		System.out.println(hash16);
+		System.out.println(key);
+
+		System.out.println(hash(s));
+
+
+		System.out.println((16-1) & hash);
+
 		int money = 1000;
 		int num = 10;
 
