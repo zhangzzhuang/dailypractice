@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/designpattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyjdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diykafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diykafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diymysqlms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diymysqlms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyobserverpattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyobserverpattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyprotobuf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyprotobuf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyproxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyproxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyquartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyquartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyrabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyrabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyredis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyredis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyredpacket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diyredpacket/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diythread/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diythread/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sortagorithm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sortagorithm/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

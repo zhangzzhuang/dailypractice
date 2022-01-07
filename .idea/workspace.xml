@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="diyquartz:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abc14fc9-2d3c-454c-9a50-a72b3c4faf91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="195" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dailypractice" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:zhangzzhuang/dailypractice.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ixA07YSlneXYfSxk62u5NUKIrp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/diymysqlms/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36666667" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diymysqlms/src/main/resources" />
+      <recent name="$PROJECT_DIR$/diyredpacket/src/main/java/com/example/diyredpacket" />
+      <recent name="$PROJECT_DIR$/diyquartz/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.diyrabbitmq" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diymysqlms/src/main/resources" />
+      <recent name="$PROJECT_DIR$/diyredpacket/src/main/java/com/example/diyredpacket/util/collect" />
+      <recent name="$PROJECT_DIR$/diyprotobuf" />
+      <recent name="$PROJECT_DIR$/diyprotobuf/src/main/java/com/example/diyprotobuf" />
+      <recent name="$PROJECT_DIR$/diyprotobuf/src/main/java/com/example/diyprotobuf/protoFile" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.diymysqlms.controller" />
+      <recent name="com.example.diyredpacket.config" />
+      <recent name="com.example.diyredpacket.controller" />
+      <recent name="com.example.diythread.synchronizedDemo" />
+      <recent name="com.example.diyrabbitmq.limit" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.diyquartz.controller" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 15 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestDemo">
+    <configuration name="CompletableFutureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.diythread.jdk8asyn.CompletableFutureExample" />
+      <module name="diythread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.diythread.jdk8asyn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompleteExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.diythread.jdk8asyn.CompleteExample" />
+      <module name="diythread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.diythread.jdk8asyn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.diythread.threadlocalDemo.Main" />
+      <module name="diythread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.diythread.threadlocalDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.sortagorithm.TestDemo" />
+      <module name="sortagorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sortagorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dependenceinversion.User" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dependenceinversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiykafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diykafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diykafka.DiykafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiymysqlmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diymysqlms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diymysqlms.DiymysqlmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiyobserverpatternApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyobserverpattern" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diyobserverpattern.DiyobserverpatternApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiyprotobufApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyprotobuf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diyprotobuf.DiyprotobufApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiyproxyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyproxy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diyproxy.diyproxy.DiyproxyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiyquartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyquartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diyquartz.DiyquartzApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="diyquartz:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="DiyrabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyrabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diyrabbitmq.DiyrabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiyredisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyredis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diyredis.DiyredisApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiyredpacketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyredpacket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diyredpacket.DiyredpacketApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.datasource.druid.publickey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAMfDP/supjT9pCJFDIRQxG8OUTy3fxwO+29RgTXbZ9hJe8Gz6CkGtdZI0kL5iQd/PkTWxoVoD45UzUwo9sJezMkCAwEAAQ==" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiythreadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diythread" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.diythread.DiythreadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diyjdk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.jdk.JdkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortagorithmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sortagorithm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sortagorithm.SortagorithmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdk" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:PrintGCDetails -XX:SurvivoRatio=8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_dailypractice" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56196" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.User" />
+      <item itemvalue="Application.CompletableFutureExample" />
+      <item itemvalue="Application.CompleteExample" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestDemo" />
+      <item itemvalue="Spring Boot.DiyquartzApplication" />
+      <item itemvalue="Spring Boot.DiyproxyApplication" />
+      <item itemvalue="Spring Boot.DiyrabbitmqApplication" />
+      <item itemvalue="Spring Boot.DiyredpacketApplication" />
+      <item itemvalue="Spring Boot.SortagorithmApplication" />
+      <item itemvalue="Spring Boot.DiyredisApplication" />
+      <item itemvalue="Spring Boot.DiyprotobufApplication" />
+      <item itemvalue="Spring Boot.DiythreadApplication" />
+      <item itemvalue="Spring Boot.DiyobserverpatternApplication" />
+      <item itemvalue="Spring Boot.DiymysqlmsApplication" />
+      <item itemvalue="Spring Boot.JdkApplication" />
+      <item itemvalue="Spring Boot.DiykafkaApplication" />
+      <item itemvalue="Tomcat Server.jdk" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CompleteExample" />
+        <item itemvalue="Application.CompletableFutureExample" />
+        <item itemvalue="Application.User" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_FIELDS,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc14fc9-2d3c-454c-9a50-a72b3c4faf91" name="Default Changelist" comment="" />
+      <created>1602838643408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602838643408</updated>
+      <workItem from="1602838646299" duration="892000" />
+      <workItem from="1602839547402" duration="1436000" />
+      <workItem from="1603071279575" duration="4504000" />
+      <workItem from="1603096159720" duration="1682000" />
+      <workItem from="1603174617521" duration="3363000" />
+      <workItem from="1603181135622" duration="3474000" />
+      <workItem from="1603186852611" duration="758000" />
+      <workItem from="1603188087619" duration="334000" />
+      <workItem from="1603188439407" duration="370000" />
+      <workItem from="1603188830066" duration="204000" />
+      <workItem from="1603189052784" duration="23000" />
+      <workItem from="1603243488065" duration="19707000" />
+      <workItem from="1603273290360" duration="1658000" />
+      <workItem from="1603274974323" duration="511000" />
+      <workItem from="1603328937572" duration="2405000" />
+      <workItem from="1603331363959" duration="5445000" />
+      <workItem from="1603337888096" duration="84000" />
+      <workItem from="1603765066264" duration="1318000" />
+      <workItem from="1603786837248" duration="3830000" />
+      <workItem from="1603791926911" duration="493000" />
+      <workItem from="1603792425341" duration="788000" />
+      <workItem from="1603848223556" duration="53000" />
+      <workItem from="1603850102736" duration="1079000" />
+      <workItem from="1603851784544" duration="17188000" />
+      <workItem from="1603878069285" duration="170000" />
+      <workItem from="1603935494831" duration="18927000" />
+      <workItem from="1604021056303" duration="544000" />
+      <workItem from="1604028707791" duration="760000" />
+      <workItem from="1604284099239" duration="297000" />
+      <workItem from="1605576766614" duration="444000" />
+      <workItem from="1605775159844" duration="782000" />
+      <workItem from="1605775954341" duration="1355000" />
+      <workItem from="1605777314841" duration="3378000" />
+      <workItem from="1605836082121" duration="9201000" />
+      <workItem from="1605845354777" duration="1484000" />
+      <workItem from="1605846845313" duration="1008000" />
+      <workItem from="1605847857736" duration="2984000" />
+      <workItem from="1605854737354" duration="4526000" />
+      <workItem from="1605863876109" duration="234000" />
+      <workItem from="1605864125078" duration="2034000" />
+      <workItem from="1605866172146" duration="8000" />
+      <workItem from="1605866192999" duration="417000" />
+      <workItem from="1606093777581" duration="4228000" />
+      <workItem from="1606099229437" duration="5763000" />
+      <workItem from="1606111244070" duration="4705000" />
+      <workItem from="1606116884976" duration="431000" />
+      <workItem from="1606275232736" duration="5000" />
+      <workItem from="1606359537332" duration="384000" />
+      <workItem from="1607045556804" duration="2380000" />
+      <workItem from="1607048300261" duration="1661000" />
+      <workItem from="1607056633291" duration="4821000" />
+      <workItem from="1607309218199" duration="2850000" />
+      <workItem from="1607326187026" duration="8196000" />
+      <workItem from="1607416924409" duration="1311000" />
+      <workItem from="1607479339267" duration="1365000" />
+      <workItem from="1607564667905" duration="526000" />
+      <workItem from="1608026913308" duration="161000" />
+      <workItem from="1608710334508" duration="19000" />
+      <workItem from="1609743426710" duration="1111000" />
+      <workItem from="1609744933631" duration="332000" />
+      <workItem from="1609745812592" duration="1137000" />
+      <workItem from="1609747590205" duration="820000" />
+      <workItem from="1609898145078" duration="7000" />
+      <workItem from="1609916055950" duration="323000" />
+      <workItem from="1611129529805" duration="5516000" />
+      <workItem from="1611191788856" duration="3778000" />
+      <workItem from="1611197897251" duration="1990000" />
+      <workItem from="1611212669326" duration="4195000" />
+      <workItem from="1611279188179" duration="2728000" />
+      <workItem from="1611543872960" duration="3544000" />
+      <workItem from="1611564188662" duration="526000" />
+      <workItem from="1611715653197" duration="12000" />
+      <workItem from="1611715858856" duration="162000" />
+      <workItem from="1611904478141" duration="479000" />
+      <workItem from="1612145028875" duration="18000" />
+      <workItem from="1612163968222" duration="6000" />
+      <workItem from="1612317759550" duration="570000" />
+      <workItem from="1612323982404" duration="479000" />
+      <workItem from="1613629628516" duration="303000" />
+      <workItem from="1613958728052" duration="12000" />
+      <workItem from="1613984093235" duration="421000" />
+      <workItem from="1613984584369" duration="339000" />
+      <workItem from="1613986661573" duration="387000" />
+      <workItem from="1614047343040" duration="1359000" />
+      <workItem from="1614052516300" duration="8103000" />
+      <workItem from="1614153371133" duration="42000" />
+      <workItem from="1614155379816" duration="6485000" />
+      <workItem from="1614218033499" duration="17795000" />
+      <workItem from="1614301621064" duration="597000" />
+      <workItem from="1614306595207" duration="1173000" />
+      <workItem from="1614308866308" duration="1480000" />
+      <workItem from="1614675199513" duration="524000" />
+      <workItem from="1614753444824" duration="186000" />
+      <workItem from="1614829222883" duration="2849000" />
+      <workItem from="1614842334359" duration="4456000" />
+      <workItem from="1614913897846" duration="2380000" />
+      <workItem from="1615014909281" duration="6067000" />
+      <workItem from="1615167447699" duration="13036000" />
+      <workItem from="1615252476289" duration="13891000" />
+      <workItem from="1615270325782" duration="7602000" />
+      <workItem from="1615444129987" duration="602000" />
+      <workItem from="1615451435202" duration="3141000" />
+      <workItem from="1615515226295" duration="1343000" />
+      <workItem from="1615532712114" duration="39000" />
+      <workItem from="1615533598826" duration="5058000" />
+      <workItem from="1615619997833" duration="24001000" />
+      <workItem from="1615858940553" duration="1887000" />
+      <workItem from="1616045975356" duration="4123000" />
+      <workItem from="1616119941459" duration="5164000" />
+      <workItem from="1616375870093" duration="2162000" />
+      <workItem from="1616490264615" duration="81000" />
+      <workItem from="1616636726075" duration="16829000" />
+      <workItem from="1616722169001" duration="1379000" />
+      <workItem from="1616740280862" duration="126000" />
+      <workItem from="1616740991046" duration="911000" />
+      <workItem from="1616742645759" duration="739000" />
+      <workItem from="1616748931583" duration="356000" />
+      <workItem from="1617090837206" duration="4375000" />
+      <workItem from="1617239042233" duration="1819000" />
+      <workItem from="1617246200499" duration="1061000" />
+      <workItem from="1617248013167" duration="635000" />
+      <workItem from="1617261884146" duration="584000" />
+      <workItem from="1617262587627" duration="614000" />
+      <workItem from="1617266217231" duration="593000" />
+      <workItem from="1617267977855" duration="56000" />
+      <workItem from="1617327190411" duration="3236000" />
+      <workItem from="1617451383180" duration="2358000" />
+      <workItem from="1617673965027" duration="14599000" />
+      <workItem from="1617758444974" duration="571000" />
+      <workItem from="1617846935065" duration="2952000" />
+      <workItem from="1617930469725" duration="4555000" />
+      <workItem from="1617954743289" duration="439000" />
+      <workItem from="1617961269157" duration="2455000" />
+      <workItem from="1618451758953" duration="2260000" />
+      <workItem from="1618889319488" duration="613000" />
+      <workItem from="1619162947968" duration="82000" />
+      <workItem from="1619321186263" duration="2925000" />
+      <workItem from="1619332125273" duration="7297000" />
+      <workItem from="1619600578670" duration="2268000" />
+      <workItem from="1620799952393" duration="32000" />
+      <workItem from="1620876855166" duration="715000" />
+      <workItem from="1621392335139" duration="44000" />
+      <workItem from="1621497531218" duration="27000" />
+      <workItem from="1621500969432" duration="112000" />
+      <workItem from="1621569106198" duration="577000" />
+      <workItem from="1621821819115" duration="605000" />
+      <workItem from="1622621663026" duration="623000" />
+      <workItem from="1622625566239" duration="113000" />
+      <workItem from="1622703253500" duration="43000" />
+      <workItem from="1622721393149" duration="289000" />
+      <workItem from="1624265911271" duration="1095000" />
+      <workItem from="1624433081030" duration="4000" />
+      <workItem from="1624955151308" duration="402000" />
+      <workItem from="1625476162527" duration="2313000" />
+      <workItem from="1625535262345" duration="1759000" />
+      <workItem from="1625730154230" duration="4124000" />
+      <workItem from="1626067489607" duration="1463000" />
+      <workItem from="1626232493743" duration="16059000" />
+      <workItem from="1626313312683" duration="5604000" />
+      <workItem from="1626331785827" duration="600000" />
+      <workItem from="1626398626273" duration="1013000" />
+      <workItem from="1626493903383" duration="1001000" />
+      <workItem from="1628744228051" duration="829000" />
+      <workItem from="1628840111841" duration="408000" />
+      <workItem from="1629167069877" duration="214000" />
+      <workItem from="1629182894820" duration="925000" />
+      <workItem from="1629341987333" duration="2804000" />
+      <workItem from="1629356350439" duration="253000" />
+      <workItem from="1629704302295" duration="3515000" />
+      <workItem from="1629949923471" duration="14000" />
+      <workItem from="1630313685877" duration="1443000" />
+      <workItem from="1630569257357" duration="513000" />
+      <workItem from="1630640030942" duration="9942000" />
+      <workItem from="1631162801217" duration="2252000" />
+      <workItem from="1631282460110" duration="1027000" />
+      <workItem from="1631284043661" duration="3764000" />
+      <workItem from="1631524731034" duration="790000" />
+      <workItem from="1631951077964" duration="811000" />
+      <workItem from="1631971686115" duration="2670000" />
+      <workItem from="1632468199948" duration="6629000" />
+      <workItem from="1632713856079" duration="4249000" />
+      <workItem from="1632727746099" duration="589000" />
+      <workItem from="1632792116995" duration="6017000" />
+      <workItem from="1632814845845" duration="67000" />
+      <workItem from="1637219820462" duration="1099000" />
+      <workItem from="1637307518537" duration="838000" />
+      <workItem from="1637544590072" duration="22000" />
+      <workItem from="1637545547197" duration="1173000" />
+      <workItem from="1637551237422" duration="690000" />
+      <workItem from="1638165337855" duration="1097000" />
+      <workItem from="1638240000667" duration="320000" />
+      <workItem from="1638263208351" duration="1660000" />
+      <workItem from="1638339439145" duration="400000" />
+      <workItem from="1638411533724" duration="8807000" />
+      <workItem from="1638431604688" duration="778000" />
+      <workItem from="1638496456407" duration="1018000" />
+      <workItem from="1638757850307" duration="3524000" />
+      <workItem from="1638930350445" duration="2323000" />
+      <workItem from="1639721295792" duration="6321000" />
+      <workItem from="1639982381344" duration="21464000" />
+      <workItem from="1640081041985" duration="677000" />
+      <workItem from="1641264943391" duration="4633000" />
+      <workItem from="1641440738886" duration="4512000" />
+      <workItem from="1641521582631" duration="850000" />
+      <workItem from="1641523233539" duration="2104000" />
+    </task>
+    <task id="LOCAL-00001" summary="practice makes perfect">
+      <created>1641524361405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641524361405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modify a">
+      <created>1641526176214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641526176214</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modify b">
+      <created>1641526224458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641526224458</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modify c">
+      <created>1641526277110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641526277110</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modify d">
+      <created>1641539462320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641539462321</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice makes perfect" />
+    <MESSAGE value="modify a" />
+    <MESSAGE value="modify b" />
+    <MESSAGE value="modify c" />
+    <MESSAGE value="modify d" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify d" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2018" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638761063029">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2018" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1638761063029" />
+    <state x="2213" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1639989179997">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2213" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1639989179997" />
+    <state x="1968" y="127" key="CommitChangelistDialog2" timestamp="1641539462174">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1968" y="127" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641539462174" />
+    <state x="2267" y="445" key="Github.ShareDialog" timestamp="1641523984156">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2267" y="445" key="Github.ShareDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641523984156" />
+    <state width="1876" height="132" key="GridCell.Tab.0.bottom" timestamp="1641465411340">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1637546722305" />
+    <state width="1876" height="132" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641465411340" />
+    <state width="1876" height="312" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640075472783" />
+    <state width="1876" height="132" key="GridCell.Tab.0.center" timestamp="1641465411338">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1637546722303" />
+    <state width="1876" height="132" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641465411338" />
+    <state width="1876" height="312" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640075472780" />
+    <state width="1876" height="132" key="GridCell.Tab.0.left" timestamp="1641465411337">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1637546722302" />
+    <state width="1876" height="132" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641465411337" />
+    <state width="1876" height="312" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640075472779" />
+    <state width="1876" height="132" key="GridCell.Tab.0.right" timestamp="1641465411339">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1637546722304" />
+    <state width="1876" height="132" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641465411339" />
+    <state width="1876" height="312" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640075472782" />
+    <state width="1876" height="295" key="GridCell.Tab.1.bottom" timestamp="1640076765178">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640076765178" />
+    <state width="1876" height="295" key="GridCell.Tab.1.center" timestamp="1640076765177">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640076765177" />
+    <state width="1876" height="295" key="GridCell.Tab.1.left" timestamp="1640076765176">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640076765176" />
+    <state width="1876" height="295" key="GridCell.Tab.1.right" timestamp="1640076765177">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640076765177" />
+    <state width="1876" height="295" key="GridCell.Tab.2.bottom" timestamp="1638783420298">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.2.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1638783420298" />
+    <state width="1876" height="295" key="GridCell.Tab.2.center" timestamp="1638783420297">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.2.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1638783420297" />
+    <state width="1876" height="295" key="GridCell.Tab.2.left" timestamp="1638783420296">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.2.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1638783420296" />
+    <state width="1876" height="295" key="GridCell.Tab.2.right" timestamp="1638783420297">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="295" key="GridCell.Tab.2.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1638783420297" />
+    <state x="2007" y="31" key="SettingsEditor" timestamp="1641539521617">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2007" y="31" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641539521617" />
+    <state x="2000" y="281" key="Vcs.Push.Dialog.v2" timestamp="1641539468116">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2000" y="281" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641539468116" />
+    <state width="879" height="314" key="documentation.popup.size" timestamp="1641461173829">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="879" height="314" key="documentation.popup.size/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641461173829" />
+    <state width="879" height="314" key="documentation.popup.size/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640070757675" />
+    <state width="879" height="314" key="documentation.popup.size/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1640056712236" />
+    <state x="2077" y="304" width="645" height="472" key="find.popup" timestamp="1640081079150">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="477" y="254" width="689" height="472" key="find.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1637551246700" />
+    <state x="2077" y="304" width="645" height="472" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640081079150" />
+    <state width="879" height="314" key="javadoc.popup.new" timestamp="1640057284068">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="879" height="314" key="javadoc.popup.new/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1640057284068" />
+    <state x="1780" y="105" key="new project wizard" timestamp="1637220091560">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1780" y="105" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1637220091560" />
+    <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1641276493954">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1641276493954" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///var/folders/z8/rx9h9d_x45d9x34ft9n2j_480000gn/T/leetcode/editor/cn/[剑指 Offer 24]反转链表.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sortagorithm/src/main/java/com/example/sortagorithm/sort/MergeSort.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dailypractice$UserService.ic" NAME="UserService Coverage Results" MODIFIED="1614161687830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.diythread.conditonDemo.user.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/dailypractice$DiyredpacketApplicationTests_justDoIt.ic" NAME="DiyredpacketApplicationTests.justDoIt Coverage Results" MODIFIED="1606110278837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.diyredpacket.*</FILTER>
+    </SUITE>
+  </component>
+</project>

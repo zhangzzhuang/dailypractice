@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="socketclient" />
+        <module name="ejbs" />
+        <module name="primary-source" />
+        <module name="designpattern" />
+        <module name="diyproxy" />
+        <module name="ear" />
+        <module name="diyobserverpattern" />
+        <module name="diyprotobuf" />
+        <module name="socketserver" />
+        <module name="sortagorithm" />
+        <module name="diykafka" />
+        <module name="diyrabbitmq" />
+        <module name="diymysqlms" />
+        <module name="logging" />
+        <module name="diyredpacket" />
+        <module name="socket-server" />
+        <module name="diyredis" />
+        <module name="diythread" />
+        <module name="diyquartz" />
+        <module name="servlet" />
+        <module name="diyjdk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ear" target="1.5" />
+      <module name="ejbs" target="1.5" />
+      <module name="logging" target="1.5" />
+      <module name="primary-source" target="1.5" />
+      <module name="projects" target="1.5" />
+      <module name="servlet" target="1.5" />
+      <module name="servlets" target="1.5" />
+      <module name="socket-client" target="1.8" />
+      <module name="socket-server" target="1.8" />
+      <module name="socketclient" target="1.8" />
+      <module name="socketserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="designpattern" options="" />
+      <module name="diyjdk" options="-parameters" />
+      <module name="diykafka" options="-parameters" />
+      <module name="diymysqlms" options="-parameters" />
+      <module name="diyobserverpattern" options="-parameters" />
+      <module name="diyprotobuf" options="-parameters" />
+      <module name="diyproxy" options="-parameters" />
+      <module name="diyquartz" options="-parameters" />
+      <module name="diyrabbitmq" options="-parameters" />
+      <module name="diyredis" options="-parameters" />
+      <module name="diyredpacket" options="-parameters" />
+      <module name="diythread" options="-parameters" />
+      <module name="socket-client" options="-parameters" />
+      <module name="socket-server" options="-parameters" />
+      <module name="socketclient" options="-parameters" />
+      <module name="socketserver" options="-parameters" />
+      <module name="sortagorithm" options="-parameters" />
+    </option>
+  </component>
+</project>

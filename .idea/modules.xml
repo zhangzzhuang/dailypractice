@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/socketclient/ear/ear.iml" filepath="$PROJECT_DIR$/socketclient/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclient/ejbs/ejbs.iml" filepath="$PROJECT_DIR$/socketclient/ejbs/ejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclient/projects/logging/logging.iml" filepath="$PROJECT_DIR$/socketclient/projects/logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclient/primary-source/primary-source.iml" filepath="$PROJECT_DIR$/socketclient/primary-source/primary-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclient/projects/projects.iml" filepath="$PROJECT_DIR$/socketclient/projects/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclient/servlets/servlet/servlet.iml" filepath="$PROJECT_DIR$/socketclient/servlets/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketclient/servlets/servlets.iml" filepath="$PROJECT_DIR$/socketclient/servlets/servlets.iml" />
+    </modules>
+  </component>
+</project>
