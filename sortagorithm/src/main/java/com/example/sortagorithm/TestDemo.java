@@ -77,18 +77,18 @@ public class TestDemo implements ApplicationRunner {
 
 		System.out.println(redPacket(900, 10));
 
-//		Map<String, String> map = new HashMap<>();
-//		map.put(null,null);
-//		map.put(null,"null;");
-//		System.out.println(map.size());
-//		System.out.println(map.get(null));
-//		LinkedHashMap<String, String> linkedHashMap = new LinkedHashMap<>();
-//		linkedHashMap.put(null,null);
-//		System.out.println(linkedHashMap.size());
-//
-//		TreeMap treeMap = new TreeMap<>();
-//		treeMap.put(null,null);
-//		System.out.println(treeMap);
+		Map<String, String> map = new HashMap<>();
+		map.put(null,null);
+		map.put(null,"null;");
+		System.out.println(map.size());
+		System.out.println(map.get(null));
+		LinkedHashMap<String, String> linkedHashMap = new LinkedHashMap<>();
+		linkedHashMap.put(null,null);
+		System.out.println(linkedHashMap.size());
+
+		TreeMap treeMap = new TreeMap<>();
+		treeMap.put(null,null);
+		System.out.println(treeMap);
 
 
 	}
